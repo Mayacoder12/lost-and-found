@@ -9,10 +9,10 @@ const FoundItems = () => {
 
  
   const foundItems = [
-    { id: 1, name: "Mobile Phone", location: "Library", date: "20/02/2024", imageUrl: logo1, description: "Black smartphone found near study tables." },
-    { id: 2, name: "Charger", location: "Cafeteria", date: "18/02/2024", imageUrl: logo2, description: "White charger found at cafeteria table." },
-    { id: 3, name: "Wallet", location: "Gym", date: "17/02/2024", imageUrl: logo3, description: "Brown leather wallet found near lockers." },
-    { id: 4, name: "Earphones", location: "Auditorium", date: "15/02/2024", imageUrl: logo4, description: "Wireless earphones found after event." }
+    { id: 1, name: "Mobile", location: "Library", date: "20/02/2025", imageUrl: logo1, description: "Mobile has been found." },
+    { id: 2, name: "Charger", location: "Cafeteria", date: "18/02/2025", imageUrl: logo2, description: "Charger has been found." },
+    { id: 3, name: "Earbuds", location: "Lecture Hall 3", date: "17/02/2025", imageUrl: logo3, description: "Earbuds has been found." },
+    { id: 4, name: "Watch", location: "Gym", date: "15/02/2025", imageUrl: logo4, description: "Watch has been found." }
   ];
 
   return (

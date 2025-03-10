@@ -9,10 +9,10 @@ const LostItems = () => {
 
 
   const lostItems = [
-    { id: 1, name: "Laptop", location: "Library", date: "20/02/2024", imageUrl: logo1, description: "Black Dell laptop lost near study tables." },
-    { id: 2, name: "Headphones", location: "Cafeteria", date: "18/02/2024", imageUrl: logo2, description: "Wireless headphones lost on a cafeteria chair." },
-    { id: 3, name: "Notebook", location: "Lecture Hall 3", date: "17/02/2024", imageUrl: logo3, description: "Red spiral notebook left on the desk." },
-    { id: 4, name: "Bag", location: "Gym", date: "15/02/2024", imageUrl: logo4, description: "Blue sports bag left near the treadmill." }
+    { id: 1, name: "Mobile", location: "Library", date: "20/02/2025", imageUrl: logo1, description: "Mobile has been lost." },
+    { id: 2, name: "Charger", location: "Cafeteria", date: "18/02/2025", imageUrl: logo2, description: "Charger has been lost." },
+    { id: 3, name: "Earbuds", location: "Lecture Hall 3", date: "17/02/2025", imageUrl: logo3, description: "Earbuds has been lost." },
+    { id: 4, name: "Watch", location: "Gym", date: "15/02/2025", imageUrl: logo4, description: "Watch has been lost." }
   ];
 
   return (
